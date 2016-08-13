@@ -1,0 +1,16 @@
+Start!
+
+Time for AlgorithmWu: 0,026228
+Time for AlgorithmWu: 0,0163339
+Time for AlgorithmWu: 0,0205359
+Time for AlgorithmBrezenhema: 0,0016815
+Time for AsymmetricalDDA: 0,0018308
+Time for SimpleDDA: 0,0007957
+Time for SimpleDDA: 0,0008143
+Time for SimpleDDA: 0,0007464
+Time for AlgorithmBrezenhema_Circle: 0,0060197
+Time for AlgorithmBrezenhema_Circle: 0,0066316
+Time for AlgorithmBrezenhema_Ellipse: 0,017783
+Time for AlgorithmBrezenhema_Ellipse: 0,0072276
+Time for AlgorithmBrezenhema_Ellipse: 0,0085082
+Time for AlgorithmBrezenhema_Ellipse: 0,0064832
